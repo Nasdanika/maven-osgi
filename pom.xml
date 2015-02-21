@@ -81,6 +81,12 @@
                                 <artifact>
                                 	<id>com.flagstone:transform:3.0.2</id>
                                 </artifact>                                
+                                <artifact>
+                                	<id>org.codehaus.janino:janino:2.7.5</id>
+                                </artifact>                                
+                                <artifact>
+                                	<id>org.mozilla:rhino:1.7R5</id>
+                                </artifact>                                
                             </artifacts>
                         </configuration>
 
