@@ -86,10 +86,12 @@
                                 </artifact>                                
                                 <artifact>
                                 	<id>org.mozilla:rhino:1.7R5</id>
-                                </artifact>         
+                                </artifact>    
+                                <!--      
                                 <artifact>
                                 	<id>org.seleniumhq.selenium:selenium-java:2.45.0</id>
-                                </artifact>         
+                                </artifact>
+                                 -->         
                                 <artifact>
                                 	<id>org.apache.commons:commons-lang3:3.3.2</id>
                                 </artifact>                                         
