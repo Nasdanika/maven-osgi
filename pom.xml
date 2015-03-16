@@ -90,6 +90,10 @@
                                 <artifact>
                                 	<id>org.mockito:mockito-core:2.0.5-beta</id>
                                 </artifact>    
+                                <artifact>
+                                	<id>org.bouncycastle:bcmail-jdk16:1.46</id>
+                                </artifact>    
+
                                 <!--      
                                 <artifact>
                                 	<id>org.seleniumhq.selenium:selenium-java:2.45.0</id>
