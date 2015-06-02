@@ -99,6 +99,18 @@
                                 <artifact>
                                 	<id>org.pegdown:pegdown:1.5.0</id>
                                 </artifact>    
+                                <artifact>
+                                	<id>org.jsoup:jsoup:1.8.2</id>
+                                </artifact>    
+                                <artifact>
+                                	<id>org.apache.lucene:lucene-core:5.1.0</id>
+                                </artifact>    
+                                <artifact>
+                                	<id>org.apache.lucene:lucene-queryparser:5.1.0</id>
+                                </artifact>    
+                                <artifact>
+                                	<id>org.apache.lucene:lucene-analyzers-common:5.1.0</id>
+                                </artifact>    
 
                                 <!--      
                                 <artifact>
