@@ -111,6 +111,9 @@
                                 <artifact>
                                 	<id>org.apache.lucene:lucene-analyzers-common:5.1.0</id>
                                 </artifact>    
+                                <artifact>
+                                	<id>commons-codec:commons-codec:1.10</id>
+                                </artifact>    
 
                                 <!--      
                                 <artifact>
