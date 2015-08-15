@@ -119,7 +119,12 @@
                                  -->         
                                 <artifact>
                                 	<id>org.apache.commons:commons-lang3:3.3.2</id>
-                                </artifact>                                         
+                                </artifact>      
+                                
+                                <artifact>
+                                	<id>com.github.spullara.mustache.java:compiler:0.9.0</id>
+                                </artifact>      
+                                                                   
                             </artifacts>
                         </configuration>
 
