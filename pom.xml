@@ -97,7 +97,7 @@
                                 	<id>org.bouncycastle:bcmail-jdk16:1.46</id>
                                 </artifact>    
                                 <artifact>
-                                	<id>org.jsoup:jsoup:1.8.2</id>
+                                	<id>org.jsoup:jsoup:1.8.3</id>
                                 </artifact>    
                                 <artifact>
                                 	<id>org.apache.lucene:lucene-core:5.1.0</id>
