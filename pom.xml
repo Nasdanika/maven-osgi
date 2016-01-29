@@ -129,10 +129,6 @@
                                 	<id>org.apache.aries.spifly:org.apache.aries.spifly.dynamic.bundle:1.0.4</id>
                                 </artifact>
 
-                                <artifact>
-                                	<id>net.sourceforge.plantuml:plantuml:8034</id>
-                                </artifact>
-                                                                   
                             </artifacts>
                         </configuration>
 
