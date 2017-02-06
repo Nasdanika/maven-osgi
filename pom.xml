@@ -122,12 +122,12 @@
                                 </artifact>
                                  -->         
                                 <artifact>
-                                	<id>org.apache.commons:commons-lang3:3.3.2</id>
+                                	<id>org.apache.commons:commons-lang3:3.5</id>
                                 </artifact>      
 
 				                                
                                 <artifact>
-                                	<id>com.github.spullara.mustache.java:compiler:0.9.2</id>
+                                	<id>com.github.spullara.mustache.java:compiler:0.9.4</id>
                                 </artifact>      
                                 
                                 <artifact>
