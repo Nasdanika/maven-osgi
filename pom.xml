@@ -99,6 +99,15 @@
                                 <artifact>
                                 	<id>org.jsoup:jsoup:1.11.3</id>
                                 </artifact>    
+                                <artifact>
+                                	<id>org.freemarker:freemarker:2.3.28</id>
+                                </artifact>    
+                                <artifact>
+                                	<id>org.yaml:snakeyaml:1.21</id>
+                                </artifact>    
+                                <artifact>
+                                	<id>commons-jxpath:commons-jxpath:1.3</id>
+                                </artifact>    
 
 				<!--
                                 <artifact>
