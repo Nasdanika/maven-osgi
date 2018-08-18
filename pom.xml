@@ -150,10 +150,6 @@
                                 	<id>org.json:json:20180130</id>
                                 </artifact>       
                                
-                                <artifact>
-                                	<id>com.vladsch.flexmark:flexmark-all:0.34.18</id>
-                                </artifact> 
-
                             </artifacts>
                         </configuration>
 
