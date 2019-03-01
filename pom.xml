@@ -155,15 +155,7 @@
                                 </artifact>    
 
                                 <artifact>
-                                	<id>io.jsonwebtoken:jjwt-api:0.10.5</id>
-                                </artifact>    
-
-                                <artifact>
-                                	<id>io.jsonwebtoken:jjwt-impl:0.10.5</id>
-                                </artifact>    
-
-                                <artifact>
-                                	<id>io.jsonwebtoken:jjwt-orgjson:0.10.5</id>
+                                	<id>com.auth0:java-jwt:3.7.0</id>
                                 </artifact>    
                                                                                                            
                             </artifacts>
