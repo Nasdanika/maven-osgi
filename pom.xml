@@ -162,7 +162,10 @@
                                 	<id>io.jsonwebtoken:jjwt-impl:0.10.5</id>
                                 </artifact>    
 
-                               
+                                <artifact>
+                                	<id>io.jsonwebtoken:jjwt-orgjson:0.10.5</id>
+                                </artifact>    
+                                                                                                           
                             </artifacts>
                         </configuration>
 
