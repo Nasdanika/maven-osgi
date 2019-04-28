@@ -13,6 +13,14 @@
 	</properties>
 
     <build>
+	<extensions>
+	      <extension>
+	        <groupId>org.apache.maven.wagon</groupId>
+	         <artifactId>wagon-ssh</artifactId>
+	         <version>3.2.0</version>
+	      </extension>
+	</extensions>
+
         <plugins>
 		<plugin>
 		    <groupId>org.apache.maven.plugins</groupId>
