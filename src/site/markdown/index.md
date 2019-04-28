@@ -4,6 +4,6 @@ Third party Maven dependencies used by Nasdanika products wrapped into OSGi bund
 
 
 * P2 repository - ``https://www.nasdanika.org/home/products/maven-osgi/repository``
-* [Archived repository](org.nasdanika.maven-osgi.repository-2.2019.04-SNAPSHOT.zip).
+* [Archived repository](org.nasdanika.maven-osgi.repository-2.2019.04.zip).
 * [Sources](maven-osgi.zip)
 
