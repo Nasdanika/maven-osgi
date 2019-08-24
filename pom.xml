@@ -177,6 +177,10 @@
                                 <artifact>
                                 	<id>mysql:mysql-connector-java:jar:8.0.15</id>
                                 </artifact>    
+
+                                <artifact>
+                                	<id>io.github.azagniotov:ant-style-path-matcher:jar:1.0.0</id>
+                                </artifact>    
                                                                                                            
                             </artifacts>
                         </configuration>
