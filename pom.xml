@@ -142,6 +142,9 @@
                                 <artifact>
                                 	<id>com.google.zxing:javase:3.4.0</id>
                                 </artifact>    
+                                <artifact>
+                                	<id>org.fusesource.jansi:jansi:1.18</id>
+                                </artifact>    
 
 				<!--
                                 <artifact>
